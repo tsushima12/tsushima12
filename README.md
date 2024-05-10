@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @tsushima12
-- 👀 I’m interested in python
+/dev/null before dishonour
